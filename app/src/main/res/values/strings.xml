@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Profile_Briand</string>
+    <string name="followers">Followers</string>
+    <string name="photo">Photos</string>
+    <string name="following">Following</string>
+    <string name="follow">FOLLOW ME</string>
+    <string name="comment">Show all comment</string>
+    <string name="group">Add to group</string>
 </resources>

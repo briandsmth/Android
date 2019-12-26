@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile_Briand</string>
+    <string name="followers">Pengikut</string>
+    <string name="photo">Gambar</string>
+    <string name="following">Di ikuti</string>
+    <string name="follow">IKUTI SAYA</string>
+    <string name="comment">Tunjukkan Semua Komentar</string>
+    <string name="group">Tambahkan ke grup</string>
+</resources>

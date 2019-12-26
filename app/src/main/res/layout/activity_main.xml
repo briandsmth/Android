@@ -49,7 +49,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Photos"
+                        android:text="@string/photo"
                         android:textSize="20sp"
                         />
                     <TextView
@@ -71,7 +71,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Followers"
+                        android:text="@string/followers"
                         android:textSize="20sp"
                         />
                     <TextView
@@ -93,7 +93,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Following"
+                        android:text="@string/following"
                         android:textSize="20sp"
                         />
                     <TextView
@@ -171,7 +171,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
-                android:text="Add to group"/>
+                android:text="@string/group"/>
         </LinearLayout>
         <LinearLayout
             android:layout_marginTop="25dp"
@@ -185,22 +185,20 @@
                 android:src="@drawable/ic_forum_black_24dp"/>
             <TextView
                 android:textStyle="bold"
-
                 android:layout_gravity="center_vertical"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
-                android:text="Show all comments"/>
+                android:text="@string/comment"/>
         </LinearLayout>
     </LinearLayout>
 
     <Button
         android:background="@drawable/btn_design"
         android:textColor="#fff"
-        android:layout_marginTop="25dp"
         android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Follow Me"/>
+        android:text="@string/follow"/>
 
 </LinearLayout>
